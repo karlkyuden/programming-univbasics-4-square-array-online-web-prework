@@ -1,3 +1,5 @@
+#ruby's simple squaring the array exercise
+
 def square_array(array)
   counter = 0
   while counter < array.length do
